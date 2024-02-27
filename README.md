@@ -120,4 +120,4 @@ print(query_result)
 ![1](https://github.com/sithihajara/Ex-3--AAI/assets/94219582/e13b492b-770a-4a79-b17a-4cd135b409ad)
 
 ## Result:
-Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
+Thus, Gibb's Sampling( Approximate Inference method) is successfully implemented using python.
